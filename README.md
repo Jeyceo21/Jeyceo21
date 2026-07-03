@@ -11,7 +11,7 @@
 - 🌱 Currently learning LLMs, RAG and Multi-Agent AI Systems
 - 🤖 Building AI-powered applications
 - 💡 Interested in Machine Learning, Deep Learning and Backend Development
-- 📫 Reach me: your-email@gmail.com
+- 📫 Reach me: jeyanthanpetchimuthu@gmail.com
 
 ---
 
