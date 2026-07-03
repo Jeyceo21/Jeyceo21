@@ -160,3 +160,235 @@ Goal:
 ---
 
 > **"Building intelligent systems that solve real-world problems using AI."**
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🧠 Enterprise RAG Platform
+
+**Enterprise-grade Retrieval Augmented Generation system capable of semantic document search and intelligent question answering using Large Language Models.**
+
+### 🔹 Highlights
+
+- Semantic Search
+- PDF Question Answering
+- Vector Database Search
+- FastAPI Backend
+- Streamlit Frontend
+- Ollama Integration
+
+### ⚙ Tech Stack
+
+`Python`
+`FastAPI`
+`FAISS`
+`Sentence Transformers`
+`Ollama`
+`Streamlit`
+
+🔗 **Repository:** *(Add Link)*
+
+🌐 **Demo:** *(Add Link)*
+
+</td>
+
+<td width="50%">
+
+<img src="https://img.shields.io/badge/Generative_AI-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLM-purple?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌾 AgroVista
+
+AI-powered Smart Agriculture platform providing crop monitoring, soil analytics, weather insights and interactive dashboards.
+
+### 🔹 Highlights
+
+- Soil Monitoring
+- Crop Analytics
+- Weather Dashboard
+- Interactive Charts
+- Responsive UI
+
+### ⚙ Tech Stack
+
+`React`
+
+`Node.js`
+
+`Express`
+
+`Chart.js`
+
+`Vite`
+
+🔗 **Repository:** *(Add Link)*
+
+🌐 **Demo:** *(Add Link)*
+
+</td>
+
+<td width="50%">
+
+<img src="https://img.shields.io/badge/Agriculture-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Dashboard-blue?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 Smart Horizon
+
+Collaborative AI-powered platform designed to solve real-world problems using modern software engineering practices.
+
+### 🔹 Highlights
+
+- Team Collaboration
+- Scalable Architecture
+- Modern Web Stack
+- Cloud Ready
+
+### ⚙ Tech Stack
+
+`React`
+
+`Node`
+
+`Express`
+
+`MongoDB`
+
+🔗 **Repository:** *(Add Link)*
+
+</td>
+
+<td width="50%">
+
+<img src="https://img.shields.io/badge/Team_Project-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full_Stack-blue?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌱 Farm Risk Detection Agent
+
+Intelligent AI agent that predicts crop health risks using environmental data and machine learning.
+
+### 🔹 Highlights
+
+- Disease Detection
+- Water Stress Analysis
+- Pest Prediction
+- Sensor Intelligence
+
+### ⚙ Tech Stack
+
+`Python`
+
+`TensorFlow`
+
+`OpenCV`
+
+`Machine Learning`
+
+🔗 **Repository:** *(Add Link)*
+
+</td>
+
+<td width="50%">
+
+<img src="https://img.shields.io/badge/AI_Agent-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🛰 Multi-Agent Crop Disease Risk Prediction System
+
+A coordinated AI ecosystem consisting of multiple autonomous agents for precision agriculture.
+
+### 🔹 AI Agents
+
+- Sensor Agent
+- Weather Agent
+- History Agent
+- Image Agent
+- Risk Detection Agent
+- Orchestrator Agent
+
+### ⚙ Tech Stack
+
+`Python`
+
+`TensorFlow`
+
+`FastAPI`
+
+`Machine Learning`
+
+`Multi-Agent AI`
+
+🔗 **Repository:** *(Add Link)*
+
+</td>
+
+<td width="50%">
+
+<img src="https://img.shields.io/badge/Multi_Agent_AI-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep_Learning-success?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
