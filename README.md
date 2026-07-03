@@ -88,8 +88,7 @@ AI Agent for
 ## 🤝 Connect with Me
 
 LinkedIn:
-https://linkedin.com/in/your-link
-
+www.linkedin.com/in/jeyanthan-petchimuthu-777ba6329
 GitHub:
 https://github.com/Jeyceo21## Hi there 👋
 
