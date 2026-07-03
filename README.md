@@ -91,7 +91,7 @@ LinkedIn:
 www.linkedin.com/in/jeyanthan-petchimuthu-777ba6329
 
 GitHub:
-https://github.com/Jeyceo21## Hi there 👋
+https://github.com/Jeyceo21## 
 
 <!--
 **Jeyceo21/Jeyceo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
