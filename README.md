@@ -1,109 +1,162 @@
-# Hi 👋 I'm Jeyanthan Petchimuthu
+<!-- ============================== -->
+<!--          HERO BANNER          -->
+<!-- ============================== -->
 
-🎓 B.Tech Computer Science Engineering Student at NIIT University
+<p align="center">
 
-💻 Passionate about Artificial Intelligence, Machine Learning, Generative AI and Full Stack Development.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Jeyanthan%20Petchimuthu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+</p>
+
+<h1 align="center">
+
+Hi 👋 I'm Jeyanthan Petchimuthu
+
+</h1>
+
+<h3 align="center">
+
+AI Engineer • Machine Learning Engineer • Full Stack Developer
+
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;Retrieval+Augmented+Generation+(RAG);Multi-Agent+AI+Systems;FastAPI+Developer;React+Developer;Always+Learning+New+Technologies"/>
+
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning LLMs, RAG and Multi-Agent AI Systems
-- 🤖 Building AI-powered applications
-- 💡 Interested in Machine Learning, Deep Learning and Backend Development
-- 📫 Reach me: jeyanthanpetchimuthu@gmail.com
+```yaml
+Name: Jeyanthan Petchimuthu
+
+University:
+  NIIT University
+  B.Tech Computer Science Engineering
+
+Current Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - LLMs
+  - Generative AI
+  - Multi-Agent AI
+  - Retrieval Augmented Generation
+
+Currently Building:
+  Enterprise AI Applications
+  AI Agents
+  Smart Agriculture Systems
+
+Goal:
+  AI Engineer @ Google | Microsoft | Amazon | NVIDIA
+```
 
 ---
 
-## 🛠 Tech Stack
+## 🌐 Connect With Me
 
-### Languages
+<p align="center">
 
-Python • Java • JavaScript • SQL • HTML • CSS
+<a href="https://www.linkedin.com/in/jeyanthan-petchimuthu-777ba6329/">
 
-### Frameworks
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-FastAPI • React • Streamlit • Flask
+</a>
 
-### AI/ML
+<a href="mailto:jeyanthanpetchimuthu@gmail.com">
 
-TensorFlow • Scikit-Learn • FAISS • Ollama • LangChain • Pandas • NumPy
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
-### Tools
+</a>
 
-Git • GitHub • VS Code • Power BI • Vercel
+<a href="https://github.com/Jeyceo21">
 
----
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
-# ⭐ Featured Projects
+</a>
 
-## Enterprise RAG Platform
-
-Semantic Search using
-
-- FastAPI
-- Streamlit
-- FAISS
-- Sentence Transformers
-- Ollama
+</p>
 
 ---
 
-## AgroVista
+# 💻 Tech Stack
 
-AI-powered Smart Agriculture Dashboard
+## Languages
 
-- React
-- Node.js
-- Chart.js
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql"/>
 
-## Multi-Agent Crop Disease Risk Prediction System
-
-Predict crop diseases using
-
-- Sensor Data
-- Weather Data
-- Deep Learning
+</p>
 
 ---
 
-## Farm Risk Detection Agent
+## Frameworks
 
-AI Agent for
+<p align="center">
 
-- Crop Health
-- Pest Detection
-- Water Stress Analysis
+<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,flask"/>
 
----
-
-## 📈 GitHub Stats
-
-(We'll add these later)
+</p>
 
 ---
 
-## 🤝 Connect with Me
+## AI / Machine Learning
 
-LinkedIn:
-www.linkedin.com/in/jeyanthan-petchimuthu-777ba6329
+<p align="center">
 
-GitHub:
-https://github.com/Jeyceo21## 
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-<!--
-**Jeyceo21/Jeyceo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-0099FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Multi_Agent_AI-7B61FF?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel"/>
+
+</p>
+
+---
+
+## ⚡ Areas of Interest
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-9C27B0?style=for-the-badge"/>
+
+</p>
+
+---
+
+> **"Building intelligent systems that solve real-world problems using AI."**
