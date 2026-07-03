@@ -392,3 +392,81 @@ A coordinated AI ecosystem consisting of multiple autonomous agents for precisio
 
 </tr>
 </table>
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeyceo21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyceo21&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Jeyceo21&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeyceo21&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jeyceo21&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</p>
+
+---
+
+# 📌 Current Focus
+
+```text
+🧠 Building Enterprise AI Applications
+
+🤖 Large Language Models (LLMs)
+
+📚 Retrieval-Augmented Generation (RAG)
+
+🌐 Full Stack AI Applications
+
+⚡ FastAPI & React
+
+🌱 AI for Agriculture
+
+🛰 Multi-Agent AI Systems
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Land an AI/ML Internship
+- 🚀 Build Production-Ready AI Applications
+- 🤝 Contribute to Open Source
+- 📄 Publish Technical Blogs
+- 🌍 Launch Personal Portfolio
+- 📚 Master MLOps & Cloud Deployment
+
+---
+
+# 💡 Quote I Live By
+
+> *"The best way to predict the future is to build it."*
