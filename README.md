@@ -33,9 +33,9 @@ AI Engineer • Machine Learning Engineer • Full Stack Developer
 ```yaml
 Name: Jeyanthan Petchimuthu
 
-University:
-  NIIT University
-  B.Tech Computer Science Engineering
+
+  
+  
 
 Current Focus:
   - Artificial Intelligence
